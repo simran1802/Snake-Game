@@ -16,8 +16,8 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
 Start The Game Using Snake.exe File!
 
-Cheats
-Press q to add extra 10 points. smile
+# Cheats
+Press q to add extra 10 points.
 Press b to derease the snake speed
 Press s to increase the snake speed.
 
